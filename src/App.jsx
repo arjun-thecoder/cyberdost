@@ -19,9 +19,9 @@ const CONFIG = {
   price: "199",
   originalPrice: "999",
 
-  upiId: "YOURUPIID@upi",
+  upiId: "arjuns6060-1@okhdfcbank",
 
-  whatsappNumber: "919999999999",
+  whatsappNumber: "919056690652",
 
   supportText:
     "Hi CyberDost, I have purchased the 10,000+ Instagram Reels Bundle. I am sending my payment screenshot. Please send me the bundle.",
